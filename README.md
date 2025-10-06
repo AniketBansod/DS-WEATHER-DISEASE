@@ -1,5 +1,5 @@
-Weather & Disease Prediction using Machine Learning
-📌 Project Overview
+# Weather & Disease Prediction using Machine Learning
+## 📌 Project Overview
 
 This project predicts disease outcomes based on weather conditions and symptoms using machine learning.
 We built a complete data science pipeline, starting from raw dataset exploration to model deployment in a Streamlit web app.
@@ -14,7 +14,7 @@ Model training, hyperparameter tuning, and interpretability (with SHAP)
 
 Deployment via a user-friendly Streamlit app
 
-### 📂 Project Structure
+## 📂 Project Structure
 DS-WEATHER-DISEASE/
 │
 ├── data/                          
@@ -47,8 +47,8 @@ DS-WEATHER-DISEASE/
 ├── requirements.txt               
 └── README.md                      
 
-🛠️ Steps in the Project
-1. 📊 Exploratory Data Analysis (EDA)
+# 🛠️ Steps in the Project
+## 1. 📊 Exploratory Data Analysis (EDA)
 
 Distribution of diseases across weather conditions
 
@@ -56,7 +56,7 @@ Correlation between symptoms and weather
 
 Visualizations: heatmaps, histograms, cluster maps
 
-2. ⚙️ Data Preprocessing
+## 2. ⚙️ Data Preprocessing
 
 Handling missing values
 
@@ -68,7 +68,7 @@ symptom_sum = number of selected symptoms
 
 temp_x_fever = temperature × fever indicator
 
-3. 🤖 Modeling
+## 3. 🤖 Modeling
 
 Baseline models: Logistic Regression, Random Forest, SVM
 
@@ -78,13 +78,13 @@ Hyperparameter tuning with RandomizedSearchCV
 
 Model evaluation: accuracy, precision, recall, F1-score
 
-4. 🔍 Interpretability
+## 4. 🔍 Interpretability
 
 Feature importance (tree-based models)
 
 SHAP analysis for local & global interpretability
 
-5. 🌐 Deployment
+## 5. 🌐 Deployment
 
 Streamlit app where user can:
 
@@ -96,21 +96,21 @@ View top 5 most likely diseases
 
 Final trained model stored in outputs/models/
 
-🚀 How to Run the Project
-1. Clone Repository
+# 🚀 How to Run the Project
+## 1. Clone Repository
 git clone <repo-link>
 cd DS-WEATHER-DISEASE
 
-2. Setup Virtual Environment
+## 2. Setup Virtual Environment
 python -m venv venv
 # Activate
 venv\Scripts\activate    # Windows
 source venv/bin/activate # Mac/Linux
 
-3. Install Dependencies
+## 3. Install Dependencies
 pip install -r requirements.txt
 
-4. Train Model (Optional)
+## 4. Train Model (Optional)
 python train_and_save.py
 
 
@@ -122,13 +122,15 @@ outputs/models/feature_names.joblib
 
 outputs/models/label_encoder.joblib
 
-5. Run Streamlit App
+## 5. Run Streamlit App
 streamlit run app.py
 
 
 Then open: 👉 http://localhost:8501
 
-🖼️ Demo Screenshots
+# 🖼️ Demo Screenshots
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/e27f7d8c-f21c-4904-966c-7d75e1dd8def" />
+
 🔍 Streamlit App Prediction
 
 (screenshot of app UI)
@@ -137,7 +139,7 @@ Then open: 👉 http://localhost:8501
 
 (top 5 likely diseases bar chart)
 
-📈 Results
+# 📈 Results
 
 Final selected model: RandomForestClassifier (tuned)
 
@@ -145,7 +147,7 @@ Accuracy: ~85–90%
 
 Key features: fever, temperature, runny nose, cough, high fever
 
-📑 Deliverables
+# 📑 Deliverables
 
 EDA Presentation → outputs/EDA_presentation.pptx
 
@@ -155,11 +157,11 @@ Streamlit App → app.py
 
 Research/Report Resources → all scripts + outputs
 
-👨‍💻 Contributors
+# 👨‍💻 Contributors
 
-# Aniket Bansod
+ Aniket Bansod
 
-🏆 Key Highlights
+# 🏆 Key Highlights
 
 End-to-end ML project from raw dataset → deployment
 
