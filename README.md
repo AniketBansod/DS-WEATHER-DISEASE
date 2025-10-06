@@ -157,9 +157,7 @@ Research/Report Resources → all scripts + outputs
 
 👨‍💻 Contributors
 
-Your Name – Data Science & Development
-
-Friend’s Name – Report, PPT, and Documentation
+# Aniket Bansod
 
 🏆 Key Highlights
 
