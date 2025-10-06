@@ -1,0 +1,4 @@
+estimator,best_score,best_params
+RandomForest,0.958869854146275,"{'max_depth': 14, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 7, 'n_estimators': 369}"
+XGBoost,0.9787556660733209,"{'colsample_bytree': np.float64(0.7599443886861021), 'learning_rate': np.float64(0.023999698964084628), 'max_depth': 6, 'n_estimators': 370, 'subsample': np.float64(0.7824279936868144)}"
+LightGBM,0.9779114217246961,"{'learning_rate': np.float64(0.19355586841671385), 'min_child_samples': 46, 'n_estimators': 287, 'num_leaves': 94}"

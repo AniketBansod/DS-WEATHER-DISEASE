@@ -1,0 +1,1041 @@
+y_true,y_pred
+Malaria,Malaria
+Influenza,Influenza
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Malaria,Malaria
+Influenza,Influenza
+Migraine,Migraine
+Influenza,Influenza
+Malaria,Malaria
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Malaria,Malaria
+Influenza,Influenza
+Common Cold,Common Cold
+Arthritis,Arthritis
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Eczema,Eczema
+Migraine,Migraine
+Eczema,Eczema
+Migraine,Migraine
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Eczema,Eczema
+Migraine,Migraine
+Influenza,Influenza
+Heart Attack,Heart Attack
+Eczema,Eczema
+Heart Attack,Heart Attack
+Migraine,Migraine
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Influenza,Common Cold
+Influenza,Influenza
+Influenza,Influenza
+Influenza,Influenza
+Arthritis,Arthritis
+Heat Stroke,Heat Stroke
+Dengue,Dengue
+Eczema,Eczema
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Dengue,Dengue
+Dengue,Dengue
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Arthritis,Arthritis
+Migraine,Migraine
+Common Cold,Common Cold
+Malaria,Malaria
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Arthritis,Arthritis
+Common Cold,Common Cold
+Influenza,Influenza
+Malaria,Malaria
+Stroke,Stroke
+Arthritis,Arthritis
+Heat Stroke,Heat Stroke
+Common Cold,Influenza
+Influenza,Influenza
+Migraine,Migraine
+Dengue,Dengue
+Migraine,Migraine
+Malaria,Malaria
+Heart Attack,Heart Attack
+Influenza,Influenza
+Stroke,Stroke
+Common Cold,Common Cold
+Migraine,Migraine
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Migraine,Migraine
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Sinusitis,Sinusitis
+Heat Stroke,Heat Stroke
+Eczema,Eczema
+Malaria,Malaria
+Influenza,Influenza
+Heart Attack,Heart Attack
+Malaria,Malaria
+Influenza,Influenza
+Stroke,Stroke
+Common Cold,Common Cold
+Heat Stroke,Heat Stroke
+Dengue,Dengue
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Malaria,Malaria
+Influenza,Influenza
+Sinusitis,Sinusitis
+Migraine,Migraine
+Eczema,Eczema
+Influenza,Influenza
+Stroke,Stroke
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Malaria,Malaria
+Heat Stroke,Heat Stroke
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Influenza,Influenza
+Migraine,Migraine
+Migraine,Migraine
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Sinusitis,Sinusitis
+Stroke,Stroke
+Sinusitis,Sinusitis
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Stroke,Stroke
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Eczema,Eczema
+Eczema,Eczema
+Stroke,Stroke
+Migraine,Migraine
+Malaria,Malaria
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Influenza
+Dengue,Dengue
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Migraine,Migraine
+Heart Attack,Heart Attack
+Stroke,Stroke
+Dengue,Dengue
+Heart Attack,Heart Attack
+Migraine,Migraine
+Dengue,Dengue
+Sinusitis,Sinusitis
+Sinusitis,Sinusitis
+Migraine,Migraine
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Influenza,Influenza
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Dengue,Dengue
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Eczema,Eczema
+Heart Attack,Heart Attack
+Dengue,Dengue
+Influenza,Influenza
+Arthritis,Arthritis
+Arthritis,Arthritis
+Common Cold,Common Cold
+Heat Stroke,Heat Stroke
+Dengue,Dengue
+Malaria,Malaria
+Migraine,Migraine
+Migraine,Migraine
+Dengue,Dengue
+Heart Attack,Heart Attack
+Influenza,Influenza
+Eczema,Eczema
+Eczema,Eczema
+Dengue,Dengue
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Malaria,Malaria
+Dengue,Dengue
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Common Cold,Common Cold
+Influenza,Influenza
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Influenza,Influenza
+Stroke,Stroke
+Influenza,Influenza
+Sinusitis,Sinusitis
+Stroke,Stroke
+Heart Attack,Heart Attack
+Dengue,Dengue
+Eczema,Eczema
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Migraine,Migraine
+Sinusitis,Sinusitis
+Eczema,Eczema
+Eczema,Eczema
+Arthritis,Arthritis
+Influenza,Influenza
+Eczema,Eczema
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Influenza,Influenza
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Migraine,Migraine
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Migraine,Migraine
+Influenza,Influenza
+Arthritis,Arthritis
+Arthritis,Arthritis
+Common Cold,Common Cold
+Migraine,Migraine
+Influenza,Influenza
+Influenza,Influenza
+Heat Stroke,Heat Stroke
+Arthritis,Arthritis
+Malaria,Malaria
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Malaria,Malaria
+Migraine,Migraine
+Stroke,Stroke
+Stroke,Stroke
+Influenza,Influenza
+Migraine,Migraine
+Malaria,Malaria
+Eczema,Eczema
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Arthritis,Arthritis
+Heat Stroke,Heat Stroke
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Influenza,Influenza
+Stroke,Stroke
+Heart Attack,Heart Attack
+Stroke,Stroke
+Influenza,Influenza
+Influenza,Common Cold
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Arthritis,Arthritis
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Stroke,Stroke
+Heart Attack,Heart Attack
+Eczema,Eczema
+Dengue,Dengue
+Malaria,Malaria
+Dengue,Dengue
+Stroke,Stroke
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Migraine,Migraine
+Eczema,Eczema
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Arthritis,Arthritis
+Heat Stroke,Heart Attack
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Eczema,Eczema
+Influenza,Influenza
+Dengue,Dengue
+Migraine,Migraine
+Heart Attack,Heart Attack
+Stroke,Stroke
+Influenza,Influenza
+Eczema,Eczema
+Dengue,Dengue
+Malaria,Malaria
+Migraine,Migraine
+Influenza,Influenza
+Heat Stroke,Heat Stroke
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Influenza,Influenza
+Eczema,Eczema
+Heart Attack,Heart Attack
+Dengue,Dengue
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Stroke,Stroke
+Heart Attack,Heart Attack
+Migraine,Migraine
+Stroke,Stroke
+Heart Attack,Heart Attack
+Eczema,Eczema
+Influenza,Influenza
+Common Cold,Common Cold
+Influenza,Influenza
+Common Cold,Common Cold
+Common Cold,Common Cold
+Migraine,Migraine
+Heat Stroke,Heat Stroke
+Malaria,Malaria
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Malaria,Malaria
+Influenza,Influenza
+Dengue,Dengue
+Heart Attack,Heart Attack
+Dengue,Dengue
+Migraine,Migraine
+Migraine,Migraine
+Migraine,Migraine
+Malaria,Malaria
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Stroke,Stroke
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Migraine,Migraine
+Eczema,Eczema
+Eczema,Eczema
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Migraine,Migraine
+Arthritis,Arthritis
+Migraine,Migraine
+Migraine,Migraine
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Migraine,Migraine
+Stroke,Stroke
+Migraine,Migraine
+Influenza,Influenza
+Dengue,Dengue
+Eczema,Eczema
+Eczema,Eczema
+Influenza,Influenza
+Stroke,Stroke
+Influenza,Influenza
+Common Cold,Common Cold
+Migraine,Migraine
+Common Cold,Common Cold
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Malaria,Malaria
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Stroke,Stroke
+Migraine,Migraine
+Stroke,Stroke
+Malaria,Malaria
+Migraine,Migraine
+Eczema,Eczema
+Common Cold,Common Cold
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Migraine,Migraine
+Malaria,Malaria
+Heart Attack,Heart Attack
+Malaria,Malaria
+Influenza,Common Cold
+Sinusitis,Sinusitis
+Heat Stroke,Heat Stroke
+Arthritis,Arthritis
+Dengue,Dengue
+Malaria,Malaria
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Migraine,Migraine
+Malaria,Malaria
+Heart Attack,Heart Attack
+Migraine,Migraine
+Eczema,Eczema
+Malaria,Malaria
+Common Cold,Common Cold
+Eczema,Eczema
+Eczema,Eczema
+Heart Attack,Heart Attack
+Malaria,Malaria
+Eczema,Eczema
+Influenza,Common Cold
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Migraine,Migraine
+Migraine,Migraine
+Malaria,Malaria
+Migraine,Migraine
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Arthritis,Arthritis
+Stroke,Stroke
+Dengue,Dengue
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Eczema,Eczema
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Eczema,Eczema
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Dengue,Dengue
+Stroke,Stroke
+Influenza,Influenza
+Common Cold,Common Cold
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Migraine,Migraine
+Influenza,Influenza
+Influenza,Influenza
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Stroke,Stroke
+Influenza,Influenza
+Sinusitis,Sinusitis
+Sinusitis,Sinusitis
+Influenza,Influenza
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Malaria,Malaria
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Dengue,Dengue
+Malaria,Malaria
+Influenza,Influenza
+Eczema,Eczema
+Malaria,Malaria
+Influenza,Influenza
+Dengue,Dengue
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Eczema,Eczema
+Stroke,Stroke
+Migraine,Migraine
+Malaria,Malaria
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Heat Stroke,Heat Stroke
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Malaria,Malaria
+Common Cold,Common Cold
+Migraine,Migraine
+Influenza,Influenza
+Stroke,Stroke
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Malaria,Malaria
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Stroke,Stroke
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Influenza,Influenza
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Dengue,Dengue
+Migraine,Migraine
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Eczema,Eczema
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Sinusitis,Sinusitis
+Sinusitis,Sinusitis
+Eczema,Eczema
+Arthritis,Arthritis
+Arthritis,Arthritis
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Migraine,Migraine
+Stroke,Stroke
+Arthritis,Arthritis
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Influenza,Influenza
+Influenza,Influenza
+Common Cold,Common Cold
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Migraine,Migraine
+Stroke,Stroke
+Arthritis,Arthritis
+Common Cold,Common Cold
+Migraine,Migraine
+Heart Attack,Heart Attack
+Stroke,Stroke
+Arthritis,Arthritis
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Common Cold,Common Cold
+Dengue,Dengue
+Migraine,Migraine
+Sinusitis,Sinusitis
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Arthritis,Arthritis
+Arthritis,Arthritis
+Migraine,Migraine
+Migraine,Migraine
+Migraine,Migraine
+Migraine,Migraine
+Arthritis,Arthritis
+Malaria,Malaria
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Influenza,Influenza
+Influenza,Influenza
+Dengue,Dengue
+Influenza,Influenza
+Influenza,Influenza
+Eczema,Eczema
+Stroke,Stroke
+Common Cold,Common Cold
+Migraine,Migraine
+Heart Attack,Heart Attack
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Eczema,Eczema
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Eczema,Eczema
+Heart Attack,Migraine
+Stroke,Stroke
+Common Cold,Common Cold
+Dengue,Dengue
+Arthritis,Arthritis
+Migraine,Migraine
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Influenza,Influenza
+Heart Attack,Heart Attack
+Malaria,Malaria
+Heart Attack,Heart Attack
+Migraine,Migraine
+Eczema,Eczema
+Malaria,Malaria
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Dengue,Dengue
+Dengue,Dengue
+Migraine,Migraine
+Heart Attack,Heart Attack
+Dengue,Dengue
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Dengue,Dengue
+Sinusitis,Sinusitis
+Malaria,Malaria
+Sinusitis,Sinusitis
+Eczema,Eczema
+Stroke,Stroke
+Sinusitis,Sinusitis
+Stroke,Stroke
+Malaria,Malaria
+Common Cold,Common Cold
+Migraine,Migraine
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Sinusitis,Sinusitis
+Influenza,Influenza
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Common Cold,Common Cold
+Heat Stroke,Heat Stroke
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Eczema,Eczema
+Migraine,Migraine
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Eczema,Eczema
+Migraine,Migraine
+Common Cold,Common Cold
+Migraine,Migraine
+Malaria,Influenza
+Arthritis,Arthritis
+Influenza,Influenza
+Migraine,Stroke
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Heat Stroke,Heat Stroke
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Eczema,Eczema
+Heat Stroke,Influenza
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Eczema,Eczema
+Dengue,Dengue
+Arthritis,Arthritis
+Malaria,Malaria
+Sinusitis,Sinusitis
+Migraine,Migraine
+Eczema,Eczema
+Migraine,Migraine
+Dengue,Dengue
+Malaria,Malaria
+Migraine,Migraine
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Stroke,Stroke
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Migraine,Migraine
+Eczema,Eczema
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Malaria,Malaria
+Stroke,Stroke
+Stroke,Stroke
+Heart Attack,Heart Attack
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Malaria,Malaria
+Migraine,Migraine
+Heart Attack,Heart Attack
+Dengue,Dengue
+Heart Attack,Heart Attack
+Malaria,Malaria
+Common Cold,Common Cold
+Eczema,Eczema
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Migraine,Migraine
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Malaria,Malaria
+Stroke,Stroke
+Dengue,Dengue
+Stroke,Migraine
+Migraine,Migraine
+Heat Stroke,Heat Stroke
+Arthritis,Arthritis
+Arthritis,Arthritis
+Malaria,Malaria
+Migraine,Migraine
+Influenza,Influenza
+Dengue,Dengue
+Influenza,Influenza
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Migraine,Migraine
+Malaria,Malaria
+Dengue,Dengue
+Common Cold,Common Cold
+Migraine,Migraine
+Dengue,Dengue
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Dengue,Dengue
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Dengue,Dengue
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Migraine,Migraine
+Stroke,Stroke
+Malaria,Malaria
+Common Cold,Common Cold
+Sinusitis,Sinusitis
+Dengue,Dengue
+Migraine,Migraine
+Dengue,Dengue
+Heart Attack,Heart Attack
+Stroke,Heat Stroke
+Influenza,Influenza
+Dengue,Dengue
+Heart Attack,Heart Attack
+Dengue,Dengue
+Dengue,Dengue
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Arthritis,Arthritis
+Influenza,Influenza
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Influenza,Influenza
+Migraine,Migraine
+Arthritis,Arthritis
+Migraine,Migraine
+Migraine,Migraine
+Influenza,Influenza
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Influenza,Influenza
+Arthritis,Arthritis
+Stroke,Stroke
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Stroke,Stroke
+Migraine,Migraine
+Arthritis,Arthritis
+Stroke,Stroke
+Dengue,Dengue
+Heart Attack,Heart Attack
+Dengue,Dengue
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Malaria,Malaria
+Malaria,Malaria
+Heart Attack,Heart Attack
+Malaria,Malaria
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Migraine,Migraine
+Sinusitis,Sinusitis
+Common Cold,Common Cold
+Migraine,Migraine
+Common Cold,Common Cold
+Migraine,Migraine
+Migraine,Migraine
+Influenza,Influenza
+Heart Attack,Heart Attack
+Influenza,Influenza
+Influenza,Influenza
+Influenza,Influenza
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Migraine,Migraine
+Sinusitis,Sinusitis
+Migraine,Migraine
+Migraine,Migraine
+Influenza,Influenza
+Dengue,Dengue
+Heat Stroke,Malaria
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Malaria,Malaria
+Heart Attack,Heart Attack
+Migraine,Migraine
+Stroke,Stroke
+Heart Attack,Heart Attack
+Sinusitis,Influenza
+Stroke,Stroke
+Heart Attack,Heart Attack
+Influenza,Influenza
+Stroke,Stroke
+Heart Attack,Heart Attack
+Dengue,Dengue
+Heart Attack,Heart Attack
+Dengue,Dengue
+Sinusitis,Sinusitis
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Malaria,Malaria
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Influenza,Influenza
+Influenza,Influenza
+Common Cold,Common Cold
+Stroke,Stroke
+Migraine,Migraine
+Common Cold,Common Cold
+Stroke,Stroke
+Stroke,Stroke
+Heat Stroke,Heat Stroke
+Eczema,Eczema
+Heart Attack,Heart Attack
+Malaria,Malaria
+Arthritis,Arthritis
+Sinusitis,Sinusitis
+Influenza,Influenza
+Influenza,Influenza
+Malaria,Malaria
+Heat Stroke,Heat Stroke
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Dengue,Dengue
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Dengue,Dengue
+Heart Attack,Heart Attack
+Migraine,Migraine
+Influenza,Influenza
+Sinusitis,Sinusitis
+Migraine,Migraine
+Eczema,Eczema
+Migraine,Migraine
+Migraine,Migraine
+Arthritis,Arthritis
+Arthritis,Arthritis
+Eczema,Eczema
+Dengue,Dengue
+Migraine,Migraine
+Migraine,Migraine
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Eczema,Eczema
+Sinusitis,Sinusitis
+Influenza,Influenza
+Common Cold,Common Cold
+Eczema,Eczema
+Influenza,Influenza
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Migraine,Migraine
+Heart Attack,Heart Attack
+Migraine,Migraine
+Influenza,Influenza
+Sinusitis,Sinusitis
+Stroke,Stroke
+Influenza,Influenza
+Stroke,Stroke
+Migraine,Migraine
+Heart Attack,Heart Attack
+Influenza,Influenza
+Influenza,Influenza
+Influenza,Influenza
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Influenza,Influenza
+Dengue,Dengue
+Malaria,Malaria
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Influenza,Influenza
+Influenza,Influenza
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Influenza,Influenza
+Heat Stroke,Heat Stroke
+Sinusitis,Sinusitis
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Malaria,Malaria
+Influenza,Influenza
+Stroke,Stroke
+Migraine,Migraine
+Influenza,Influenza
+Malaria,Malaria
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Heart Attack,Heart Attack
+Influenza,Influenza
+Eczema,Eczema
+Migraine,Migraine
+Eczema,Eczema
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Dengue,Dengue
+Eczema,Eczema
+Heat Stroke,Heat Stroke
+Influenza,Influenza
+Heart Attack,Heart Attack
+Migraine,Migraine
+Migraine,Migraine
+Heart Attack,Heart Attack
+Heat Stroke,Heat Stroke
+Arthritis,Arthritis
+Eczema,Eczema
+Influenza,Influenza
+Arthritis,Arthritis
+Malaria,Malaria
+Influenza,Influenza
+Malaria,Malaria
+Dengue,Dengue
+Heart Attack,Heart Attack
+Migraine,Migraine
+Stroke,Stroke
+Dengue,Dengue
+Dengue,Dengue
+Common Cold,Common Cold
+Migraine,Migraine
+Heart Attack,Heart Attack
+Influenza,Influenza
+Dengue,Dengue
+Migraine,Migraine
+Heart Attack,Heart Attack
+Stroke,Stroke
+Influenza,Influenza
+Heart Attack,Heart Attack
+Influenza,Influenza
+Influenza,Influenza
+Influenza,Influenza
+Common Cold,Common Cold
+Migraine,Migraine
+Influenza,Influenza
+Heart Attack,Heart Attack
+Common Cold,Common Cold
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Migraine,Migraine
+Heart Attack,Heart Attack
+Malaria,Malaria
+Stroke,Stroke
+Common Cold,Common Cold
+Influenza,Influenza
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Arthritis,Arthritis
+Heart Attack,Heart Attack
+Migraine,Migraine
+Influenza,Influenza
+Heart Attack,Heart Attack
+Malaria,Malaria
+Migraine,Migraine
+Heart Attack,Heart Attack
+Sinusitis,Sinusitis
+Arthritis,Arthritis
+Migraine,Migraine

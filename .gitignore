@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual env
+venv/
+env/
+
+# Data & models (do NOT commit large files)
+data/
+outputs/models/
+outputs/processed_dataset.csv
+outputs/*.joblib
+outputs/*.pkl
+
+# Logs
+*.log
+
+# Optional: if you use secrets or config files
+.env
+config.yaml
+# Ignore temporary system & office files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
