@@ -14,40 +14,42 @@ Model training, hyperparameter tuning, and interpretability (with SHAP)
 
 Deployment via a user-friendly Streamlit app
 
-📂 Project Structure
+## 📂 Project Structure
+
 DS-WEATHER-DISEASE/
 │
-├── data/                          
-│   └── Weather-related disease prediction.csv
+├── data/  
+│ └── Weather-related disease prediction.csv
 │
-├── notebooks/                     
-│   └── 01_eda.ipynb
+├── notebooks/  
+│ └── 01_eda.ipynb
 │
-├── outputs/                       
-│   ├── figures/                   # EDA plots
-│   ├── models/                    # Trained models
-│   │   ├── weather_disease_model.joblib
-│   │   ├── feature_names.joblib
-│   │   └── label_encoder.joblib
-│   ├── plots/                     # Model evaluation plots
-│   ├── tables/                    # Processed + results CSVs
-│   │   └── processed_dataset.csv
-│   ├── model_baselines.csv        
-│   └── EDA_presentation.pptx      
+├── outputs/  
+│ ├── figures/ # EDA plots
+│ ├── models/ # Trained models
+│ │ ├── weather_disease_model.joblib
+│ │ ├── feature_names.joblib
+│ │ └── label_encoder.joblib
+│ ├── plots/ # Model evaluation plots
+│ ├── tables/ # Processed + results CSVs
+│ │ └── processed_dataset.csv
+│ ├── model_baselines.csv  
+│ └── EDA_presentation.pptx  
 │
-├── src/                           
-│   ├── preprocess.py
-│   ├── model_baselines.py
-│   ├── model_tuning_interpret.py
-│   ├── eda_utils.py
-│   └── run_eda.py
+├── src/  
+│ ├── preprocess.py
+│ ├── model_baselines.py
+│ ├── model_tuning_interpret.py
+│ ├── eda_utils.py
+│ └── run_eda.py
 │
-├── app.py                         # Streamlit demo app
-├── train_and_save.py              # Train & save final model
-├── requirements.txt               
-└── README.md                      
+├── app.py # Streamlit demo app
+├── train_and_save.py # Train & save final model
+├── requirements.txt  
+└── README.md
 
 🛠️ Steps in the Project
+
 1. 📊 Exploratory Data Analysis (EDA)
 
 Distribution of diseases across weather conditions
@@ -97,22 +99,24 @@ View top 5 most likely diseases
 Final trained model stored in outputs/models/
 
 🚀 How to Run the Project
+
 1. Clone Repository
-git clone <repo-link>
-cd DS-WEATHER-DISEASE
+   git clone <repo-link>
+   cd DS-WEATHER-DISEASE
 
 2. Setup Virtual Environment
-python -m venv venv
+   python -m venv venv
+
 # Activate
-venv\Scripts\activate    # Windows
+
+venv\Scripts\activate # Windows
 source venv/bin/activate # Mac/Linux
 
 3. Install Dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Train Model (Optional)
-python train_and_save.py
-
+   python train_and_save.py
 
 This generates:
 
@@ -123,10 +127,14 @@ outputs/models/feature_names.joblib
 outputs/models/label_encoder.joblib
 
 5. Run Streamlit App
-streamlit run app.py
-
+   streamlit run app.py
 
 Then open: 👉 http://localhost:8501
+
+🛳️ Deployment (Render + Docker)
+
+- A `Dockerfile` and `render.yaml` are included for one-click deploys on Render.
+- See `docs/deploy_render.md` for step-by-step instructions.
 
 🖼️ Demo Screenshots
 🔍 Streamlit App Prediction
