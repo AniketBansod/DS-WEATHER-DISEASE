@@ -113,6 +113,26 @@ docker run --rm -p 8501:8501 ds-weather-disease
 - Click “Predict” to see the predicted disease and a Top‑5 probability chart.
 - Inputs are not stored; refresh/reset to try different scenarios.
 
+## 🖼️ Screenshots & EDA
+
+App UI (Streamlit):
+
+<p align="center">
+   <img src="docs/image.png" alt="App screenshot" width="700" />
+  
+</p>
+
+Key EDA outputs:
+
+<p align="center">
+   <img src="outputs/figures/numeric_corr_heatmap.png" alt="Correlation heatmap" width="420"/>
+   <img src="outputs/figures/symptom_freq_top30.png" alt="Top symptom frequencies" width="420"/>
+</p>
+<p align="center">
+   <img src="outputs/figures/feature_importances.png" alt="Feature importances" width="420"/>
+   <img src="outputs/figures/model_comparison.png" alt="Model comparison" width="420"/>
+</p>
+
 ## ⚙️ Configuration
 
 This demo does not require a `.env` file. Optional Streamlit/env toggles (already set in Dockerfile):
