@@ -1,5 +1,5 @@
-Weather & Disease Prediction using Machine Learning
-📌 Project Overview
+# Weather & Disease Prediction using Machine Learning
+## 📌 Project Overview
 
 This project predicts disease outcomes based on weather conditions and symptoms using machine learning.
 We built a complete data science pipeline, starting from raw dataset exploration to model deployment in a Streamlit web app.
@@ -58,7 +58,7 @@ Correlation between symptoms and weather
 
 Visualizations: heatmaps, histograms, cluster maps
 
-2. ⚙️ Data Preprocessing
+## 2. ⚙️ Data Preprocessing
 
 Handling missing values
 
@@ -70,7 +70,7 @@ symptom_sum = number of selected symptoms
 
 temp_x_fever = temperature × fever indicator
 
-3. 🤖 Modeling
+## 3. 🤖 Modeling
 
 Baseline models: Logistic Regression, Random Forest, SVM
 
@@ -80,13 +80,13 @@ Hyperparameter tuning with RandomizedSearchCV
 
 Model evaluation: accuracy, precision, recall, F1-score
 
-4. 🔍 Interpretability
+## 4. 🔍 Interpretability
 
 Feature importance (tree-based models)
 
 SHAP analysis for local & global interpretability
 
-5. 🌐 Deployment
+## 5. 🌐 Deployment
 
 Streamlit app where user can:
 
@@ -145,7 +145,7 @@ Then open: 👉 http://localhost:8501
 
 (top 5 likely diseases bar chart)
 
-📈 Results
+# 📈 Results
 
 Final selected model: RandomForestClassifier (tuned)
 
@@ -153,7 +153,7 @@ Accuracy: ~85–90%
 
 Key features: fever, temperature, runny nose, cough, high fever
 
-📑 Deliverables
+# 📑 Deliverables
 
 EDA Presentation → outputs/EDA_presentation.pptx
 
@@ -163,13 +163,11 @@ Streamlit App → app.py
 
 Research/Report Resources → all scripts + outputs
 
-👨‍💻 Contributors
+# 👨‍💻 Contributors
 
-Your Name – Data Science & Development
+ Aniket Bansod
 
-Friend’s Name – Report, PPT, and Documentation
-
-🏆 Key Highlights
+# 🏆 Key Highlights
 
 End-to-end ML project from raw dataset → deployment
 
@@ -178,3 +176,4 @@ Includes EDA, preprocessing, modeling, interpretability
 Fully demoable via Streamlit app
 
 Faculty-ready PPT, report, reproducible pipeline
+
